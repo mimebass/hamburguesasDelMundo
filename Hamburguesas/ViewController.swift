@@ -30,6 +30,6 @@ class ViewController: UIViewController {
         pais.text = coleccionDePaises.obtenPais()
         hambuerguesa.text = coleccionDeHamburguesas.obtenHamburguesa()
     }
-
+ 
 }
 
